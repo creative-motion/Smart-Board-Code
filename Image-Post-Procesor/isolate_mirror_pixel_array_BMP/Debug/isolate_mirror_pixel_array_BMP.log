@@ -1,0 +1,6 @@
+﻿  isolate_mirror_pixel_array_BMP.cpp
+C:\Users\matei\Documents\Google Drive\Tabla smart - Escreo\Smart-Board-Code\Image-Post-Procesor\isolate_mirror_pixel_array_BMP\isolate_mirror_pixel_array_BMP.cpp(29,93): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\matei\Documents\Google Drive\Tabla smart - Escreo\Smart-Board-Code\Image-Post-Procesor\isolate_mirror_pixel_array_BMP\isolate_mirror_pixel_array_BMP.cpp(30,76): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\matei\Documents\Google Drive\Tabla smart - Escreo\Smart-Board-Code\Image-Post-Procesor\isolate_mirror_pixel_array_BMP\isolate_mirror_pixel_array_BMP.cpp(65,84): warning C4244:  'argument': conversion from 'float' to 'uint32_t', possible loss of data
+C:\Users\matei\Documents\Google Drive\Tabla smart - Escreo\Smart-Board-Code\Image-Post-Procesor\isolate_mirror_pixel_array_BMP\isolate_mirror_pixel_array_BMP.cpp(65,28): warning C4244:  'argument': conversion from 'float' to 'uint32_t', possible loss of data
+  isolate_mirror_pixel_array_BMP.vcxproj -> C:\Users\matei\Documents\Google Drive\Tabla smart - Escreo\Smart-Board-Code\Image-Post-Procesor\Debug\isolate_mirror_pixel_array_BMP.exe

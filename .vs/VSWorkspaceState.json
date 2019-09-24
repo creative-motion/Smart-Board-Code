@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Data"
+    "\\Data",
+    "\\Local settings (.vs)\\Smart-Board-Code\\v16"
   ],
-  "PreviewInSolutionExplorer": false
+  "SelectedNode": "\\Global settings (C:\\Users\\matei\\AppData\\Local\\Microsoft\\VisualStudio\\16.0_83d8e3e7\\OpenFolder)",
+  "PreviewInSolutionExplorer": true
 }
